@@ -11,6 +11,6 @@ To run the demo just call in a terminal:
 
 *python AbelPy.py*
 
-Contact Andy Swantek for any questions, comments, concerns or compliants
+Contact Andy Swantek for any questions, comments, concerns or complaints
 
 andrew.b.swantek@gmail.com
